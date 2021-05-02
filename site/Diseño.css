@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+
+}
+body{font-size: 120%;
+	background: #727CDE;
+}
+h1{	width: all;
+	height: 200px;
+   	text-align:center;
+   	text-align:bottom;  
+	   }
+.chicken { color: red ; font-family: Verdana; }
